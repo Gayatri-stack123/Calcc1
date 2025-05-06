@@ -24,3 +24,4 @@ public class Division {
             System.out.println("Error : Cannont divisible by zero");
         }  
     }
+}
