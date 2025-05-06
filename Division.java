@@ -7,7 +7,7 @@ public class Division {
         try{
             int div =a/b;
             System.out.println("Division : "+div);
-        }catch (AirthmeticException e){
+        }catch (ArithmeticException e){
             System.out.println("Error : Cannont divisible by zero");
         }  
     }
